@@ -3,7 +3,8 @@
     "allow": [
       "PowerShell(& \"C:\\\\projects\\\\AI\\\\tools\\\\Anaconda\\\\python.exe\" --version)",
       "PowerShell(Test-Path *)",
-      "PowerShell(Get-Item *)"
+      "PowerShell(Get-Item *)",
+      "Bash(python app.py)"
     ]
   }
 }
