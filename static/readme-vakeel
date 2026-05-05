@@ -1,0 +1,2 @@
+conda create -n expense-tracker python=3.13
+conda activate expense-tracker
